@@ -1,0 +1,6 @@
+@Icrats.KMS.API_HostAddress = http://localhost:5016
+
+GET {{Icrats.KMS.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
